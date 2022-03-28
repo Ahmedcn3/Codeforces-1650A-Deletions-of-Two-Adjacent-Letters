@@ -1,9 +1,4 @@
-//#include <bits/stdc++.h>
-#include <iostream>
-#include <algorithm>
-#include <vector>
-#include <cmath>
-#include <numeric>
+#include <bits/stdc++.h>
 using namespace std;
 
 void perform_test() {
